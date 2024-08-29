@@ -10,7 +10,7 @@ package prelim;
  */
 public class helloworld {
     public static void main(String[] args){
-        System.out.println("Hello IT20 Students, Welcome to our first discussion");
+        System.out.println("Hello IT20 Students, Welcome to our first discussion coming from Github");
     }
     
 }
