@@ -20,6 +20,7 @@ public class TwoDimentionArrayAct_1 {
             System.out.println("Student: " + students[i][0] + ", Favorite Subject: " + students[i][1]);
         }
         
+        
 
     }
     
