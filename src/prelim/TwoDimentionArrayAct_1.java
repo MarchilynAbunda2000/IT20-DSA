@@ -19,6 +19,7 @@ public class TwoDimentionArrayAct_1 {
         for(int i = 0; i < students.length; i++) {
             System.out.println("Student: " + students[i][0] + ", Favorite Subject: " + students[i][1]);
         }
+        
 
     }
     
